@@ -3,7 +3,7 @@
 Написать программу вычисления n-ого треугольного числа. url
  */
 
-public class Task_3_triangle_number {
+public class Task_3_TriangleNumber {
     public static void main(String[] args) {
         System.out.println(triangle_rec(4));
         System.out.println(triangle(5));
